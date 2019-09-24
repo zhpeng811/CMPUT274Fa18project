@@ -1,10 +1,3 @@
-# -------------------------------
-# Names: Meilin Lyu, Ze Hui Peng
-# ID #s: 1577829, 1594884
-# CMPUT 274 Fall 2018
-# Final Project: Pacman Arcade Game
-# -------------------------------
-
 import pygame
 
 
